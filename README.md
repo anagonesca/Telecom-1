@@ -1,7 +1,7 @@
 # Análisis de Churn de Clientes en TelecomX
 
 ## Descripción del Proyecto
-Este proyecto es el resultado del análisis que realicé sobre el **churn** (abandono) de clientes en **TelecomX**. Usé un notebook Jupyter (`TelecomX_LATAM.ipynb`) y trabajé con **Python** junto con bibliotecas como *Pandas, NumPy, Matplotlib* y *Seaborn*.  
+Este proyecto es el resultado del análisis que realicé sobre el **churn** (abandono) de clientes en **TelecomX**. Usé Google Colab (`TelecomX_LATAM.ipynb`) y trabajé con **Python** junto con bibliotecas como *Pandas, NumPy, Matplotlib* y *Seaborn*.  
 
 Los datos provienen de un archivo JSON alojado en GitHub. A lo largo del notebook me enfoqué en: extracción, transformación, limpieza, análisis exploratorio y visualizaciones para entender qué variables influyen más en el abandono de clientes.  
 
